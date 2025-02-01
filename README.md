@@ -10,5 +10,5 @@ The sixth query adds a flag to indicate whether a refund can be processed within
 
 The seventh query finds the second purchase for each buyer, ignoring refunded transactions. It ranks transactions by purchase time for each buyer and selects the second transaction. The eighth query identifies the exact time of the second transaction for each buyer. It ranks transactions by purchase time and selects the second one for each buyer.
 
-To use these queries, open MySQL Workbench or any SQL tool, connect to your database, and copy-paste each query into the editor. Run the queries to see the results. Ensure your database contains the required data before executing the queries. If you have any questions, feel free to ask!
+To use these queries, open MySQL Workbench or any SQL tool, connect to your database, and copy-paste each query into the editor.
 
